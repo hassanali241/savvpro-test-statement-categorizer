@@ -26,4 +26,4 @@ No AI model is used at runtime. The categorization brain is plain Python rules a
 
 ## Token usage
 
-About **135k tokens** used.
+About **165k tokens** used. Log: [docs/ai-usage/token-usage-log.json](docs/ai-usage/token-usage-log.json).
